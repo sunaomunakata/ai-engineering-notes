@@ -1,0 +1,12 @@
+{
+  "name": "ai-engineering-notes",
+  "private": true,
+  "description": "AI engineering conference notes (dev.to / Zenn)",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article --published false"
+  },
+  "devDependencies": {
+    "zenn-cli": "latest"
+  }
+}
